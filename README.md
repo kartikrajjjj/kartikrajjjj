@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 
 👨‍💻 Computer Science Engineering student and aspiring Full-Stack Developer  
 🔭 Currently building full-stack web applications with React and Node.js  
